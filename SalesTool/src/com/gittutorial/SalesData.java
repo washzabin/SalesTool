@@ -9,7 +9,7 @@ public class SalesData {
 		System.out.println("TODO: Implement data display.");
 		for(int i = 0; i <= data.length; i++)
 		{
-			
+			System.out.println("Data no." + i + ": " + data[i]);
 		}
 	}
 }
