@@ -14,12 +14,10 @@ public class Main {
 	private static void displayGreeting() {
 		// TODO Auto-generated method stub
 
-		System.out.println("Hello sales people");
-		System.out.println("This app shows sales data.");
+		System.out.println("HELLO SALES PEOPLE");
+		System.out.println("THIS APP SHOWS SALES DATA.");
 		System.out.println("Test 1");
 		System.out.println("Test 2");
-		
-
 	}
 
 }
